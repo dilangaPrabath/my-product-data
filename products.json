@@ -23,14 +23,25 @@
     },
     {
       "product_id": "3",
-      "title": "Bluetooth Mouse",
+      "title": "Facebook",
       "price": "499",
       "original_price": "1000",
       "discount": "50%",
       "stock": "Out of Stock",
       "rating": "4.0",
       "sold": "300",
-      "image_url": "https://drive.google.com/uc?export=view&id=1rnAKplpru1q2foV--uVS3SwR-ZHelI38"
+      "image_url": "https://drive.google.com/uc?export=view&id=19fXCTHbCfSpBVUH6rJTNZ9fx1dwZxc-E"
+    },
+    {
+      "product_id": "4",
+      "title": "Instagram",
+      "price": "99",
+      "original_price": "1000",
+      "discount": "50%",
+      "stock": "Stock",
+      "rating": "4.0",
+      "sold": "300",
+      "image_url": "https://drive.google.com/uc?export=view&id=1TIMuokjFSfCKdnZVENDFNmAe8ZItj4LB"
     }
   ]
   
