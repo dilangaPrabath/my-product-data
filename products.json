@@ -7,7 +7,8 @@
       "discount": "75%",
       "stock": "In Stock",
       "rating": "4.5",
-      "sold": "150"
+      "sold": "150",
+      "image_url": "https://drive.google.com/uc?export=view&id=1rnAKplpru1q2foV--uVS3SwR-ZHelI38" 
     },
     {
       "product_id": "2",
@@ -17,7 +18,8 @@
       "discount": "50%",
       "stock": "Out of Stock",
       "rating": "4.0",
-      "sold": "300"
+      "sold": "300",
+      "image_url": "https://drive.google.com/uc?export=view&id=1rnAKplpru1q2foV--uVS3SwR-ZHelI38"
     },
     {
       "product_id": "3",
@@ -27,7 +29,8 @@
       "discount": "50%",
       "stock": "Out of Stock",
       "rating": "4.0",
-      "sold": "300"
+      "sold": "300",
+      "image_url": "https://drive.google.com/uc?export=view&id=1rnAKplpru1q2foV--uVS3SwR-ZHelI38"
     }
   ]
   
