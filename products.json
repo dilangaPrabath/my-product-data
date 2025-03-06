@@ -18,6 +18,16 @@
       "stock": "Out of Stock",
       "rating": "4.0",
       "sold": "300"
+    },
+    {
+      "product_id": "3",
+      "title": "Bluetooth Mouse",
+      "price": "499",
+      "original_price": "1000",
+      "discount": "50%",
+      "stock": "Out of Stock",
+      "rating": "4.0",
+      "sold": "300"
     }
   ]
   
